@@ -4,6 +4,6 @@ Nesomic (nesoi | omics) gives scientific support to decision making for biodiver
 
 Nesomic is an initiative promoted by the Jardín Botánico Canario "Viera y Clavijo" - Unidad Asociada al CSIC, and developed at the Instituto Tecnológico de Canarias (ITC). It was born in the NEXTGENDEM project.
 
-- Platform: https://sys.nesomic.org/gui/
+- Platform: https://sys.nesomic.org
 - About Nesomic: https://sys.nesomic.org/about
 - Acerca de Nesomic (español): https://sys.nesomic.org/about/es
